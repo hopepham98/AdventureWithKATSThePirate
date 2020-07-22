@@ -1,4 +1,4 @@
-# AdvenureWithKATSThePirate :+1: :sparkles: :tada: :octocat:  
+# AdvenureWithKATSThePirate :+1: :sparkles: :octocat:  
 Adventure Game for Introduction to Programming
 
 ## Game Overview
