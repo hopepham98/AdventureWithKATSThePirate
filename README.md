@@ -17,3 +17,13 @@ The game's primary goal is to retrieve the treasure and compass that belongs to 
 
 ### Image of UML Diagram:
 ![UML Diagram](https://user-images.githubusercontent.com/67672827/88486204-b71a4f00-cf41-11ea-84b7-995ed8db2e67.png)
+
+### Example of Inheritance In My Game:
+![Inheritance](https://user-images.githubusercontent.com/67672827/88486654-e8484e80-cf44-11ea-8d05-3264c1225ca4.png)
+
+### Example of Polymprphism In My Game:
+![polymorphism](https://user-images.githubusercontent.com/67672827/88486702-4412d780-cf45-11ea-8fe4-246695a78710.png)
+
+### Example of Encapsulation In My Game:
+![Encapsulation](https://user-images.githubusercontent.com/67672827/88486713-5a209800-cf45-11ea-9f53-24d16dacd3da.png)
+
