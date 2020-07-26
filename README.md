@@ -13,3 +13,5 @@ In the game, the main characters are the player and Caption Kats. Along with ano
 ### Player Goals
 The game's primary goal is to retrieve the treasure and compass that belongs to the lost hidden kingdom of Carnivora. To reach that goal player will need to pass three locations, which are the mysterious maze, dark cave, the waterfall, by helping Caption Kats solve mysterious riddles among the places.
 
+### Image of UML Diagram:
+![UML Diagram](https://user-images.githubusercontent.com/67672827/88486204-b71a4f00-cf41-11ea-84b7-995ed8db2e67.png)
