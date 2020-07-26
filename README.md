@@ -4,6 +4,8 @@ Adventure Game for Introduction to Programming
 ## Game Overview
 In the game, Adventure With KATS The Pirate features a character known as Kats, who is a cat pirate that's on a quest to find the long-lost treasure and compass of the forgotten cat kingdom, Carnivora, which he has little knowledge of. You as the player will join Caption Kats as only one of his crew members to assist him with unsolved mystery riddles to reach the treasure and the compass that's on the island, where the lost cat kingdom Carnivora is hidden. On his journey to find the long-lost treasure of Carnivora, he will encounter many mysteries riddles that lie beneath the kingdom, but with the help of the player, he will successfully achieve his mission. In the beginning, a brief history of the kingdom and an introduction of Kats will be present to the player. Will, you and Caption Kats find the lost treasure and compass, or will it be hidden forever?
 
+![Ship](https://user-images.githubusercontent.com/67672827/88486473-57bd3e80-cf43-11ea-82d5-af28b10d9834.png)
+
 ### World
 Player will start on Captain Kats' ship; he will introduce himself and give a brief story about the kingdom of Carnivora and his mission, which is to get his hand on the kingdom's treasure and mysterious compass. When the player and Caption Kats get to the island, the player is allowed to choose four items from the list of choices to bring along. Players will then encounter and need to pass through three new places before reaching the kingdom, which are the mysterious maze, dark cave, and the waterfall.
 
